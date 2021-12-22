@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sulaiman
 - 👀 I’m interested in React, React Native and Node Js
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Any Open source library or any organization who wants to work on React, React Native and NodeJs
 - 📫 You can reach me in following ways
      <!--- <a href="https://www.upwork.com/freelancers/~01e7bb3ca5cf48e9e5">Upwork</a>-->
