@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sulaiman
-- 👀 I’m interested in React, React Native and Node Js
+- 👀 I’m senior software engineer and currently working on React, React Native and Node Js
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Any Open source library or any organization who wants to work on React, React Native and NodeJs
 - 📫 You can reach me in following ways
